@@ -12,6 +12,10 @@
 - [Web Accessibility [Udacity]](https://classroom.udacity.com/courses/ud891)
 - [Marcy Sutton's "Start Building Accessible Web Applications Today" [Egghead]](https://egghead.io/courses/start-building-accessible-web-applications-today)
 
+## Videos
+- [A11ycasts](https://www.youtube.com/watch?v=fGLp_gfMMGU)
+- [Totally Tooling Tips S03 E08](https://www.youtube.com/watch?v=pBJZsp5LsOE)
+
 ## Browser Extensions
 
 ## Browser Support

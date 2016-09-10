@@ -7,6 +7,9 @@
 - [WAI-ARIA Authoring Practices](http://www.w3.org/TR/wai-aria-practices/)
 - [Notes on Using ARIA in HTML](https://w3c.github.io/aria-in-html/)
 
+## Online Tutorials
+- [Web Accessibility Tutorials [W3C]](http://www.w3.org/WAI/tutorials/)
+
 ## Online Courses
 - [Introduction to Web Accessibility [Google]](https://webaccessibility.withgoogle.com/course)
 - [Web Accessibility [Udacity]](https://classroom.udacity.com/courses/ud891)
@@ -17,6 +20,10 @@
 - [Totally Tooling Tips S03 E08](https://www.youtube.com/watch?v=pBJZsp5LsOE)
 
 ## Browser Extensions
+### Chrome
+- [ChromeLens](http://chromelens.xyz/)
+- [Accessibility Dev Tools](https://chrome.google.com/webstore/detail/accessibility-developer-t/fpkknkljclfencbdbgkenhalefipecmb?hl=en)
+- [ChromeVox](https://chrome.google.com/webstore/detail/chromevox/kgejglhpjiefppelpmljglcjbhoiplfn?hl=en)
 
 ## Browser Support
 - http://www.html5accessibility.com

@@ -9,7 +9,7 @@
 
 ## Online Tutorials
 - [Web Accessibility Tutorials [W3C]](http://www.w3.org/WAI/tutorials/)
-- [Accessibility Hike (Facebook)](http://accessibility.parseapp.com/)
+- [Accessibility Hike [Facebook]](http://accessibility.parseapp.com/)
 
 ## Online Courses
 - [Introduction to Web Accessibility [Google]](https://webaccessibility.withgoogle.com/course)
@@ -30,4 +30,5 @@
 - http://www.html5accessibility.com
 
 ## Review
+- [IBM's Accessibility Checklist for Web](http://www-03.ibm.com/able/guidelines/ci162/accessibility_checklist_web.html)
 - [Vox Media's Accessibility Checklist](http://accessibility.voxmedia.com)
